@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodCalorie</string>
+    <string name="topbar_name">Kaç Kalori?</string>
+    <string name="delete_confirmation">Silme Onayı</string>
+    <string name="are_you_sure_deleting">Bu öğeyi silmek istediğinize emin misiniz?</string>
+    <string name="delete_it">Sil</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="calorie">Kalori</string>
+    <string name="search">Ara...</string>
+    <string name="back">Geri</string>
+</resources>
