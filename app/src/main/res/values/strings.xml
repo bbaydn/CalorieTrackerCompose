@@ -7,6 +7,8 @@
     <string name="yes">Evet</string>
     <string name="no">Hayır</string>
     <string name="calorie">Kalori</string>
-    <string name="search">Ara...</string>
+    <string name="search">Ara…</string>
     <string name="back">Geri</string>
+    <string name="close">Kapat</string>
+    <string name="list_it">LİSTELE</string>
 </resources>
